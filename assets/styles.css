@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: rgba (255,255,255,0.8)
+}
+
+#landing{
+    height: 100vh;
+    background-image: url('https://images.pexels.com/photos/1954/black-and-white-lights-abstract-curves.jpg?auto=compress&cs=tinysrgb&h=750&w=1260');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+}
+#mainText{
+    margin-top: 30vh;
+}
