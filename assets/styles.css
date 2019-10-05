@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    color: rgba (255,255,255,0.8)
+    color: rgba(255,255,255,0.8);
 }
 
 #landing{
@@ -14,4 +14,16 @@ body {
 }
 #mainText{
     margin-top: 30vh;
+}
+
+#intro{
+    margin-top: 50px;
+}
+
+#work{
+    background-color: rgb(61,61,61);
+}
+
+#p1{
+    height: 350px;
 }
